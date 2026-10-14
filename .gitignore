@@ -1,0 +1,22 @@
+# Data (download with notebook 01)
+data/
+*.parquet
+
+# Trained models (too big for GitHub)
+models/
+*.pt
+*.bin
+*.safetensors
+
+# Python / Jupyter clutter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Secrets
+.env
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,9 @@
+datasets
+pandas
+pyarrow
+matplotlib
+seaborn
+sklearn-crfsuite
+seqeval
+torch
+transformers
