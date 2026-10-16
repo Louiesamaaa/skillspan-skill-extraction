@@ -1,0 +1,2 @@
+Model,Entity,Precision,Recall,F1_Score
+jjzha/jobbert-base-cased,Knowledge,0.6293,0.7027,0.664
